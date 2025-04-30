@@ -1,4 +1,4 @@
-itemId,ItemName,Category,Quality
+place_id,ItemName,Category,Quality
 0,Restaurant Fake,['Gastro'],1.6473514605008064
 1,Fiction Nightclub,['Nightlf'],1.1885585163406631
 2,Random Shopping Mall,"['Shop', 'Relax']",2.948170123723333
